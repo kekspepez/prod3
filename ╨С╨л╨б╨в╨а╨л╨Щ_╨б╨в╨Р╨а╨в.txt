@@ -1,0 +1,11 @@
+STUDENT DESK — БЫСТРЫЙ СТАРТ
+
+1. Распакуй архив.
+2. На Windows установи Python 3.11+ (при установке включи Add Python to PATH).
+3. Запусти build_windows.bat.
+4. Готовое приложение: dist\StudentDesk\StudentDesk.exe
+
+Данные и вложения хранятся отдельно от программы:
+%LOCALAPPDATA%\StudentDesk\
+
+Подробности — в README.md.
